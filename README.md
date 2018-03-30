@@ -1,0 +1,2 @@
+# ailearning
+AI study project
